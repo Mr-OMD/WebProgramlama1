@@ -14,20 +14,15 @@
 -
 
 ## KULLANILAN ARAÇLAR
--
--
--
--
+- HTML 5
+- CSS 3
+- Javascript
+- jQuery
 
 ## KULLANILAN YAZILIMLAR
--
--
--
--
+- VSCode (VS Vode Live Server Eklentisi)
+- Gooogle Chrome
 
 ## KULLANILAN YÖNTEMLER
--
--
--
--
+- Live Testing
 
