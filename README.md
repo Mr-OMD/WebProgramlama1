@@ -9,9 +9,12 @@
 **Hazırlayan: Ömer Mert Demirel - 1030520259**
 
 ## DOSYALAR
--
--
--
+- [index](index.html)
+- [özgeçmiş](cv.html)
+- [style](style.css)
+- [Tüm proje](Tesla.zip)
+- [Orjinal sitenin videosu](Testing/Orjinal.mp4)
+- [Yapılmış projenin videosu](Testing/Yapılmış.mp4)
 
 ## KULLANILAN ARAÇLAR
 - HTML 5
